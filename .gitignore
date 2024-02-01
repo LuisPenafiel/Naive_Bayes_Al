@@ -1,3 +1,5 @@
 __pycache__
 .env
 .learn
+/workspaces/Naive_Bayes_Al/data
+/workspaces/Naive_Bayes_Al/models
